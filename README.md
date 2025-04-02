@@ -1,1 +1,1 @@
-# listaDuplamenteEncadeada![Uploading Listas duplamente Encadeadas.jpg…]()
+![Uploading image.png…]()
